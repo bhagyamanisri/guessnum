@@ -1,0 +1,23 @@
+body
+{
+    background-image: url('Screenshot (43)g.png') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    margin-top: 350px;
+}
+body input
+{
+ height: 25px;
+ border-color: brown ;
+ border-width: 5px;
+}
+body button
+{
+    height: 30px;
+    border-width: 5px;
+}
+body h2{
+    color: hsl(334, 84%, 48%);
+}
+
